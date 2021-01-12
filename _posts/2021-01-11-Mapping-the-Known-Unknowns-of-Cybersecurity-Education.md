@@ -1,11 +1,3 @@
-layout: post
-title: Mapping the Known Unknowns of Cybersecurity Education
-author: _z
-
----
-
-### Mapping the Known Unknowns of Cybersecurity Education: A Review of Syllabi on Cyber Conflict and Security
-
 [doi](https://doi.org/10.1080/15512169.2020.1729166)
 
 **Authors**: Trey Herr (Atlantic Council), Arthur Laudrain (Oxford), Max Smeets (ETH Zurich)
